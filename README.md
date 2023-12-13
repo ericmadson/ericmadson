@@ -20,7 +20,7 @@
 - 📚 I am a grad student of Information Systems, at UFRN
 - 👯 I’m currently expanding my portfolio with personal projects
 - 📬 How to reach me: [Let's get in touch!][linkedin]
-- 📄 Check out my <a href="https://drive.google.com/file/d/1bLDsKwOIWOcqJsrO0ekCT05UxOYXxYgT/view?usp=sharing">resume</a> 
+- 📄 Check out my <a href="https://drive.google.com/file/d/1bLDsKwOIWOcqJsrO0ekCT05UxOYXxYgT/view?usp=sharing">resume</a> (PT-BR Version)
 - ⚡ Other hobbies: I love combat sports and martial arts :martial_arts_uniform:
 
 <br>

@@ -20,6 +20,7 @@
 - 📚 I am a grad student of Information Systems, at UFRN
 - 👯 I’m currently expanding my portfolio with personal projects
 - 📬 How to reach me: [Let's get in touch!][linkedin]
+- 📄 Check out my <a href="https://drive.google.com/file/d/1bLDsKwOIWOcqJsrO0ekCT05UxOYXxYgT/view?usp=sharing">resume</a> 
 - ⚡ Other hobbies: I love combat sports and martial arts :martial_arts_uniform:
 
 <br>
@@ -32,7 +33,7 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)v
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 
 
 <br>

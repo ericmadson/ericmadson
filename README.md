@@ -16,7 +16,7 @@
 <br>
 
 ### About Me
-- 🚀 I've almost 2 years of professional experience worked at PDA Soluções and worker around front-end, back-end and mobile projects
+- 🚀 I have almost 2 years of professional experience worked at PDA Soluções and worker around front-end, back-end and mobile projects
 - 📚 I am a grad student of Information Systems, at UFRN
 - 👯 I’m currently expanding my portfolio with personal projects
 - 📬 How to reach me: [Let's get in touch!][linkedin]
